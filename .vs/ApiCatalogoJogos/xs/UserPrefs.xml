@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{84C44392-65F6-40D1-A24A-F48B5AFBD71B}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
+  <MonoDevelop.Ide.ItemProperties.ApiCatalogoJogos PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ApiCatalogoJogos/Startup.cs">
+    <Files>
+      <File FileName="ApiCatalogoJogos/Startup.cs" Line="1" Column="14" />
+      <File FileName="ApiCatalogoJogos/Controllers/v1/JogosController.cs" Line="1" Column="14" />
+      <File FileName="ApiCatalogoJogos/Services/JogoService.cs" Line="1" Column="14" />
+      <File FileName="ApiCatalogoJogos/Repositories/JogoRepository.cs" Line="1" Column="14" />
+      <File FileName="ApiCatalogoJogos/Controllers/v1/CicloDeVidaIDController.cs" Line="1" Column="14" />
+      <File FileName="ApiCatalogoJogos/Middlewares/ExceptionMiddleware.cs" Line="1" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ApiCatalogoJogos" expanded="True">
+            <Node name="ApiCatalogoJogos" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
